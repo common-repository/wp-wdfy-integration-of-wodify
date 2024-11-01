@@ -1,0 +1,1537 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wodify for Wordpress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-26 08:26+0000\n"
+"PO-Revision-Date: 2024-07-16 11:17+0000\n"
+"Last-Translator: Stefan\n"
+"Language-Team: Deutsch\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6"
+
+#: soswodify.php:1414
+msgid ""
+" \"color\" | \"color2\" |\"vcolor\" | \"vcolor2\" colored logos (for white "
+"background) \"2\" indicates double size, \"v\" vertical logo"
+msgstr ""
+"\"color\" | \"color2\" |\"vcolor\" | \"vcolor2\" farbige Logos (für weißen "
+"Hintergrund), \"2\" steht für doppelte Logogröße, \"v\" für vertikales Logo"
+
+#: soswodify.php:1412
+msgid ""
+" \"white\" | \"white2\" |\"vwhite\" | \"vwhite2\" logos for white background "
+"\"2\" indicates double size, \"v\" vertical logo"
+msgstr ""
+" \"white\" | \"white2\" |\"vwhite\" | \"vwhite2\" Logos für weißen "
+"Hintergrund, \"2\" steht für doppelte Logogröße, \"v\" für vertikales Logo"
+
+#: soswodify.php:1410
+msgid ""
+"\"black\" | \"black2\" |\"vblack\" | \"vblack2\" logos for black background "
+"\"2\" indicates double size, \"v\" vertical logo"
+msgstr ""
+"\"black\" | \"black2\" |\"vblack\" | \"vblack2\" Logos für schwarzen "
+"Hintergrund, \"2\" steht für doppelte Logogröße, \"v\" für vertikales Logo"
+
+#: soswodify.php:1405
+msgid ""
+"\"mobile\" to link mobile web app, \"desktop\" to link to desktop web page. "
+"\"auto\" to use responsive css to determine link target, defaults to \"auto\""
+msgstr ""
+"\"mobile\" um zur Webanwednung für mobile Geräte zu verlinken, \"desktop\" "
+"zur Desktop-Webanwendung. \"auto\" um mittels Responsive CSS  das Linkziel "
+"geräteabhängig zu bestimmen, Vorgabewert \"auto\"."
+
+#: soswodify.php:1416
+msgid ""
+"\"none\" (default) create text link with text enclosed in shortcode (default "
+"Text: \"Wodify\")"
+msgstr ""
+"\"none\" (Vorgabewert) fügt einen Textlink ein, mit dem Text, der in den "
+"Shortcode-Tag eingeschlossen ist (Default-Text: \"Wodify\")"
+
+#: soswodify.php:1407
+msgid "\"true\" to open the link in a new tab, defaults to \"false\"."
+msgstr ""
+"\"true\" um den Link in einem neuen Tab zu öffnen. Vorgabewert \"false\"."
+
+#: soswodify.php:852
+msgid "%1 for program name:"
+msgstr "%1 für den Programm-Namen"
+
+#: soswodify.php:853
+msgid "%2 for WOD date"
+msgstr "%2 für das WOD Datum"
+
+#: soswodify.php:854
+msgid "%3 for WOD name"
+msgstr "%3 für den WOD Namen"
+
+#: functions/wodify_api.php:1008
+#, php-format
+msgid "%s Rounds for Reps"
+msgstr "%s Rounds for Reps"
+
+#: soswodify.php:1370
+msgid "(Click to enlarge)"
+msgstr ""
+
+#: widgets/wodify_classes_widget.php:525
+msgid "(empty line)"
+msgstr "(leere Zeile)"
+
+#: soswodify.php:1202
+msgid "(no spaces or special characters)"
+msgstr "(keine Leerzeichen oder Sonderzeichen)"
+
+#: widgets/wodify_classes_widget.php:532
+msgid "(not used)"
+msgstr "(nicht verwendet)"
+
+#: soswodify.php:367 soswodify.php:410 soswodify.php:941 soswodify.php:1068
+#: soswodify.php:1069 soswodify.php:1227 soswodify.php:1237
+#: functions/functions.php:106 widgets/wodify_wod_widget.php:117
+msgid "(Please select)"
+msgstr "(Bitte w&auml;hlen)"
+
+#: soswodify.php:1257
+msgid ""
+"0 for Alexa, 1 for Siri. For Alexa linebreaks will be converted to speech "
+"pause markup, which Siri does not interpret."
+msgstr ""
+"0 für Alexa. 1 für Siri. Für Alexa werden Zeilenumbrüche in Sprechpausen-"
+"Markup konvertiert, welche Siri nicht interpretiert."
+
+#: soswodify.php:311
+msgid "About this plugin"
+msgstr "Über dieses Plugin"
+
+#: soswodify.php:294
+msgid "About WP WDFY"
+msgstr "Über WP WDFY"
+
+#: soswodify.php:487
+msgid "Additional schema.org JSON"
+msgstr "Zusätzliches schema.org JSON"
+
+#: functions/eventlist.php:46
+msgid "Address"
+msgstr "Adresse"
+
+#: functions/functions.php:158
+msgid "All"
+msgstr "Alle"
+
+#: soswodify.php:1390
+msgid ""
+"Allows you to override the general setting for images set \"true\" to show "
+"images, \"false\" to skip WOD images."
+msgstr ""
+"Ermöglicht Ihnen die Standardeinstellung zu überschreiben. Setze den Wert "
+"auf \"true\" um Bilder anzuzeigen \"false\" um keine Bilder anzuzeigen."
+
+#. Author of the plugin
+msgid "AMRAP42 - Stefan Osterburg"
+msgstr "AMRAP42 - Stefan Osterburg"
+
+#: soswodify.php:1247
+msgid "API documentation"
+msgstr "API Dokumentation"
+
+#: soswodify.php:1200
+msgid "API short name/id for program"
+msgstr "API Kurzbezeichnung/ID für das Programm"
+
+#: soswodify.php:1381 soswodify.php:1403 soswodify.php:1428
+msgid "Attributes"
+msgstr "Attribute"
+
+#: soswodify.php:507
+msgid "Background color for this program in the calendar widget"
+msgstr "Hintergrundfarbe des Programs im Kalender-Widget"
+
+#: soswodify.php:723
+msgid "Blog Publish Date"
+msgstr "Blog Publish Date"
+
+#: functions/functions.php:106
+msgid "Box Location (Wodify):"
+msgstr "Box Location (Wodify)"
+
+#: soswodify.php:1361
+msgid "Building Siri-Shortcuts"
+msgstr "Erstellen von Siri-Kurzbefehlen"
+
+#: soswodify.php:1272
+msgid "Building your own Alexa Skill"
+msgstr "Erstellen eines eigenen Alexa-Skills"
+
+#: soswodify.php:1386
+msgid ""
+"By default the shortcode will respect the BlogPublish Date set in Wodify. If "
+"this attribute is set to \"true\" the WOD will be displayed anyway if "
+"available."
+msgstr ""
+"Standardmäßig respektiert der Shortcode die Veröffentlichungseinstellungen "
+"aus Wodify (siehe auch Eisntellungseite WOD dieses Plugins). Wenn dieses "
+"Attribut auf \"true\" gesetzt ist, zeigt der Shortcode das WOD unabhängig "
+"davon an."
+
+#: widgets/wodify_wod_widget.php:152
+msgid "Cache Wodify WOD?"
+msgstr "Wodify WOD cachen?"
+
+#: soswodify.php:675
+msgid "Caching frequency for Wodify classes information"
+msgstr "Caching Häufigkeit für Wodify-Kalender-Informationen"
+
+#: widgets/wodify_classes_widget.php:195 widgets/wodify_classes_widget.php:296
+msgid "Cancelled"
+msgstr "Abgesagt"
+
+#: soswodify.php:916
+msgid "Category(s)"
+msgstr "Katergorie(n)"
+
+#: widgets/wodify_classes_widget.php:518
+msgid "Class name"
+msgstr "Kursname"
+
+#: soswodify.php:513
+msgid ""
+"Class titles in calendar widget will be linked to the respective URL, e.g. a "
+"course description on your website."
+msgstr ""
+"Die einzelnen Classes im Kalenderwidget werden mit der entsprechenden URL "
+"verlinkt, z.B. einer Kursbeschreibung auf deiner Webseite."
+
+#: soswodify.php:671
+msgid ""
+"Classes caching is used to reduce page load times for your visitors by "
+"avoiding Wodify API calls. If you are displaying reservation info in your "
+"classes widgets, you will probably need a higher frequency than if you don't."
+" Caching uses the Wordpress cron mechanism, which is triggered whenever "
+"users visit your site. On low traffic websites you might need to add a real "
+"cron job to load your page for triggering caching."
+msgstr ""
+"Der Kalender Cache dient der Reduzierung der Seiten-Ladezeiten für die "
+"Besucher deiner Webseite durch das Vermeiden von Wodify API Aufrufen. Wenn "
+"du Reservierungsinformationen mit dem Kalender Widget auf deiner Seite "
+"anzeigst, wirst du den Cache vermutlich öfter aktualisieren wollen als im "
+"anderen Fall. Das Caching nutzt den Cron-Mechanismus von WordPress, der "
+"immer dann ausgelöst wird, wenn ein Besucher auf deine Seiten zugreift. Wenn "
+"deine Seite nur geringe Besucherzahlen aufweist, solltest du in Erwägung "
+"ziehen, einen \"echten\" Cron-Job einzurichten, der regelmäßig deine Seite "
+"aufruft, um das Caching auszulösen."
+
+#: soswodify.php:298 soswodify.php:668
+msgid "Classes Settings"
+msgstr "Kalender Einstellungen"
+
+#: functions/eventlist.php:71 widgets/wodify_classes_widget.php:511
+msgid "Coach"
+msgstr "Coach"
+
+#: soswodify.php:635
+msgid "Coach About Page URL"
+msgstr "Coach URL"
+
+#: soswodify.php:635
+msgid "Coach name"
+msgstr "Coach Name"
+
+#: soswodify.php:1441
+msgid "Coach of the class"
+msgstr "Coach der Class"
+
+#: functions/functions.php:150
+msgid "Coach:"
+msgstr "Coach:"
+
+#: soswodify.php:297 soswodify.php:624
+msgid "Coaches Settings"
+msgstr "Coaches Einstellungen"
+
+#: soswodify.php:1432
+msgid ""
+"Comma seperated list of locations. Uses default location (General Options "
+"tab) if not specified"
+msgstr ""
+"Komma-separierte Liste von Wodify Locations. Verwendet die Standard-Location,"
+" wenn nichts festgelegt ist"
+
+#: soswodify.php:1431
+msgid ""
+"Comma seperated list of programs NOT to include from all active programs "
+"(see Classes settings tab)."
+msgstr ""
+"Komma-separierte Liste von Wodify Programs von denen KEINE Classes angezeigt "
+"werden sollen. "
+
+#: soswodify.php:1430
+msgid ""
+"Comma seperated list of programs to include classes from. If empty, all "
+"active programs (see classes settings tab) are used."
+msgstr ""
+"Komma-separierte Liste von Wodify Programs von denen Classes angezeigt "
+"werden sollen. wenn leer, werden alle aktiven Programs angezeigt."
+
+#: soswodify.php:1436
+msgid ""
+"Comma seperated list of the following values that defines the columns to "
+"display and their order"
+msgstr ""
+"Komma-separierte Liste der folgenden Werte, die definiert welche Spalten in "
+"welcher Reihenfolge angezeigt werden sollen."
+
+#: soswodify.php:1388
+msgid ""
+"comma seperated list of WOD component names. If specified,  components with "
+"the specified names will not be shown, names are case-sensitive. Use "
+"\"Header\" for the WOD header (name and comment) section, \"Announcements\" "
+"for announcemnts."
+msgstr ""
+"Komma-getrennte Liste von WOD-Komponenten-Namen. Wenn angegeben, werden die "
+"ausgewählten Komponenten NICHT angezeigt, dabei wird nach Groß- und "
+"Kleinschreibung unterschieden. Verwende \"Header\" für den "
+"Überschriftsabschnitt (Name und Kommentar), \"Announcements\" für "
+"Ankündigungen."
+
+#: soswodify.php:1387
+msgid ""
+"comma seperated list of WOD component names. If specified, only components "
+"with these names will be shown, names are case-sensitive. Use \"Header\" for "
+"the WOD header (name and comment) section, \"Announcements\" for "
+"announcemnts."
+msgstr ""
+"Komma-getrennte Liste von WOD-Komponenten-Namen. Wenn angegeben, werden nur "
+"die ausgewählten Komponenten angezeigt, dabei wird nach Groß- und "
+"Kleinschreibung unterschieden. Verwende \"Header\" um den "
+"Überschriftsabschnitt (Name und Kommentar) anzuzeigen, \"Announcements\" für "
+"Ankündigungen."
+
+#: soswodify.php:484
+msgid ""
+"Content for \"priceRange\" attribute in the \"location\" section of the "
+"event markup. Typically, values such as $ = inexpensive, $$ = moderate, $$$ "
+"= expensive, $$$$ = very expensive are used."
+msgstr ""
+"Inhalt für das \"priceRange\" Attribut in der \"location\" Section des Event "
+"Markups. Üblicherweise werden hier Werte wie $ = billig, $$ = moderat, $$$ = "
+"teuer, $$$$ = sehr teuer verwendet."
+
+#: soswodify.php:475
+msgid ""
+"Content for \"telephone\" in the \"location\" section of the event markup."
+msgstr ""
+"Inhalt für \"telephone\" in der \"location\" section des Event Markups."
+
+#: soswodify.php:465
+msgid ""
+"Content for the \"image\" attribute in the \"location\" section of the event "
+"markup. Please provide a fully qualified image URL (incl. http/https). This "
+"will also be used as default for the event image. You can choose to make "
+"individual settings on the Programs settings page."
+msgstr ""
+"Inhalt für das \"image\" Attribut in der \"location\" section des Event "
+"Markups. Bitte gib eine vollständige Bild-URL (inkl. http/https) an. Diese "
+"wird auch als Vorgabewert für das Bild jedes einzelnen Events verwendet, "
+"wenn du keine individuellen Einstellungen pro Program festlegst."
+
+#: widgets/wodify_classes_widget.php:479
+msgid "Content line %d:"
+msgstr "Inhalt Zeile %d:"
+
+#: soswodify.php:913
+msgid "Create Post"
+msgstr "Beitrag erstellen"
+
+#: soswodify.php:353
+msgid ""
+"Currently no connection to Wodify.<br>Change API key and save settings, or "
+"reload page to check again."
+msgstr ""
+"Im Moment besteht keine Verbindung zu Wodify.<br>Ändere den API-Key und "
+"speichere die Einstellungen oder lade diese Seite neu, um die Verbindung "
+"noch einmal zu prüfen."
+
+#: functions/eventlist.php:61
+msgid "Date"
+msgstr "Datum"
+
+#: soswodify.php:1384
+msgid ""
+"Date in Format Y/m/d; or relative to today's date \"+1\", \"+2\", \"-1\", ..."
+"; or use \"MON\", \"TUE\", \"WED\", \"THU\", \"FRI\", \"SAT\", \"SUN\" to "
+"display WOD for a specific upcoming weekday. Defaults to today's date."
+msgstr ""
+"Datum im Format Y/m/d; oder relativ zum heutigen Datum \"+1\", \"+2\", \"-"
+"1\", ...; oder verwende \"MON\", \"TUE\", \"WED\", \"THU\", \"FRI\", \"SAT\","
+" \"SUN\" um das WOD eines bestimmten kommenden Wochentags anzuzeigen. "
+"Vorgabewert ist das aktuelle Tagesdatum."
+
+#: soswodify.php:1437
+msgid "Date of class"
+msgstr "Datum der Class"
+
+#: soswodify.php:835
+msgid "Days to create WOD posts in advance:"
+msgstr "Anzahl der Tage, für die WOD-Beiträge im Voraus erstellt werden:"
+
+#: widgets/wodify_classes_widget.php:413
+msgid "Days to show:"
+msgstr "Anzahl anzuzeigender Tage:"
+
+#: soswodify.php:509 soswodify.php:542
+msgid "Deactivate"
+msgstr "Deaktivieren"
+
+#: soswodify.php:510
+msgid "Deactivate this program in calendar widget, event shortcode and blocks."
+msgstr ""
+"Deaktiviere dieses Program im Kalender Widget, Event Shortcode und Blocks."
+
+#: soswodify.php:359
+msgid "Default Wodify Location to use for shortcodes and widgets"
+msgstr ""
+"Vorgabewert für \"Location\" aus Wodify zur Verwendung in Shortcodes und "
+"Widgets."
+
+#: soswodify.php:400
+msgid "Default Wodify Program to use for shortcodes and widgets"
+msgstr ""
+"Vorgabewert für \"Program\" aus Wodify zur Verwendung in Shortcodes und "
+"Widgets."
+
+#: soswodify.php:1409
+msgid "Defines if a logo or text link is inserted and what logo is used:"
+msgstr "Legt fest, ob ein Logo oder ein Textlink eingefügt wird:"
+
+#: soswodify.php:512 soswodify.php:543
+msgid "Description URL"
+msgstr "Beschreibungs-URL "
+
+#: soswodify.php:318
+msgid ""
+"DISCLAIMER: The plugin and its <a href=\"http://amrap42.28a.de\" "
+"target=\"_blank\"  rel=\"noopener\">author</a> are in no way associated with "
+"or endorsed by <a href=\"http://www.wodify.com\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">WODIFY</a>. The plugin relies on the API "
+"provided by Wodify."
+msgstr ""
+"DISCLAIMER: Dieses Plugin und sein <a href=\"http://amrap42.28a.de\" "
+"target=\"_blank\"  rel=\"noopener\">Autor</a> sind in keine Weise verbunden "
+"mit oder unterstützt von <a href=\"http://www.wodify.com\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">WODIFY</a>. Das Plugin nutzt das API, das von "
+"Wodify zur Verfügung gestellt wird."
+
+#: soswodify.php:1395
+msgid "Display (upcoming) Tuesday's WOD for default location and program."
+msgstr ""
+"Zeige das WOD des (kommenden) Dienstags für die Standard-Location und das "
+"Standard-Programm an."
+
+#: soswodify.php:1394
+msgid "Display todays's WOD for default location and program"
+msgstr ""
+"Zeigt das heutige WOD für die Standard-Location und das Standard-Program an."
+
+#: widgets/wodify_classes_widget.php:8
+msgid "Display upcoming classes from Wodify"
+msgstr "Zeige bevorstehende Kurse aus Wodify"
+
+#: soswodify.php:1396
+msgid "Display WOD for the specified date, location, and program."
+msgstr "Zeigt das WOD für das angegebene Datum, Location und Program an."
+
+#: widgets/wodify_wod_widget.php:8
+msgid "Displays a WOD from Wodify"
+msgstr "Zeigt ein WOD aus Wodify an"
+
+#: widgets/wodify_classes_widget.php:541
+msgid ""
+"Do not show the following programs (Separate program names with comma, leave "
+"empty to show all):"
+msgstr ""
+"Die folgenden Programme NICHT anzeigen (Mehrere Programm-Namen durch Komma "
+"getrennt, Feld leer lassen um alles anzuzeigen):"
+
+#: widgets/wodify_wod_widget.php:159
+msgid ""
+"Do not show the following WOD components (Separate component names with "
+"comma, leave empty to show all):"
+msgstr ""
+"Die folgenden WOD-Komponenten NICHT anzeigen (Mehrere Komponenten-Namen "
+"durch Komma getrennt, Feld leer lassen um alles anzuzeigen):"
+
+#: soswodify.php:328
+msgid "Download diagnostic information"
+msgstr "Diagnoseinformationen herunterladen"
+
+#: soswodify.php:775
+msgid "Download WOD images to media library?"
+msgstr "Bilder in Medienbibliothek laden?"
+
+#: functions/functions.php:100 functions/functions.php:142
+#: functions/functions.php:176
+msgid "Error accessing Wodify"
+msgstr "Fehler beim Zugriff auf Wodify"
+
+#: soswodify.php:394 soswodify.php:432 soswodify.php:618 soswodify.php:663
+#: soswodify.php:1132 soswodify.php:1244
+msgid ""
+"Error accessing Wodify. Please check if you correctly entered and saved your "
+"API key."
+msgstr ""
+"Fehler beim Zugriff auf Wodify. Bitte überprüfe ob du deinen API-Key korrekt "
+"eingegeben und gespeichert hast."
+
+#: functions/eventlist.php:56
+msgid "Event"
+msgstr "Event"
+
+#: soswodify.php:179
+msgid "Every 15 minutes"
+msgstr "Alle 15  Minuten"
+
+#: soswodify.php:188
+msgid "Every 2 hours"
+msgstr "Alle 2 Stunden"
+
+#: soswodify.php:183
+msgid "Every 30 minutes"
+msgstr "Alle 30 Minuten"
+
+#: soswodify.php:192
+msgid "Every 4 hours"
+msgstr "Alle 4 Stunden"
+
+#: soswodify.php:1260
+msgid "Example"
+msgstr "Beispiel"
+
+#: soswodify.php:495
+msgid ""
+"Example:<br><code>\"offers\": {\"@type\": \"Offer\",\"url\": \"http:"
+"//yourwebsite.com\",...  }</code>"
+msgstr ""
+"Beispiel:<br><code>\"offers\": {\"@type\": \"Offer\",\"url\": \"http:"
+"//yourwebsite.com\",...  }</code>"
+
+#: soswodify.php:1392 soswodify.php:1420 soswodify.php:1454
+msgid "Examples"
+msgstr "Beispiele"
+
+#: soswodify.php:922
+msgid "Exclude components"
+msgstr "Ausgeschlossene Komponenten"
+
+#: functions/wodify_api.php:1011
+#, php-format
+msgid "For %s"
+msgstr "For %s"
+
+#: block-wod.js:300 js/block-wod.js:330
+msgid "For advanced setting please use shortcode [wdfyevents]."
+msgstr ""
+"Für erweiterte Einstellungen verwendet bitte den Shortcode [wdfyevents]"
+
+#: block-wod.js:298 js/block-wod.js:328
+msgid ""
+"For schema.org event markup, please make sure to setup the site image and/or "
+"program image URLs in the plugin settings."
+msgstr ""
+"Für das schema.org Event Markup stelle bitte sicher, dass in den Plugin-"
+"Einstellungen die URLs für das Webseiten-Image und/oder die Program-Images "
+"konfiguriert sind."
+
+#: soswodify.php:857
+msgid ""
+"For WOD images you can decide separately if you would like to include them "
+"in the post content and/or set the first image as post thumbnail."
+msgstr ""
+"Für WOD Bilder kannst du getrennt unterscheiden, ob sie in den "
+"Beitragsinhalt eingebettet werden sollen und/oder ob das erste Bild als "
+"Beitragsbild festgelegt werden soll."
+
+#: soswodify.php:803
+msgid "Frequency to check for new Wodify WODs to post:"
+msgstr "Häufigkeit der Prüfung nach neuen Wodify WODs zum Posten:"
+
+#: soswodify.php:295 soswodify.php:339
+msgid "General Options"
+msgstr "Allgemeine Einstellungen"
+
+#: widgets/wodify_classes_widget.php:474
+msgid "Height (in pixels) of class box without hover:"
+msgstr "Höhe der Kurs-Box (in Pixeln):"
+
+#: soswodify.php:1278
+msgid ""
+"Here is just a quick and dirty example implementation of a <code>"
+"GetWorkout</code> intent:"
+msgstr ""
+"Hier ist ein \"quick-and-dirty\" Beispiel für die Implementierung eines "
+"<code>GetWorkout</code> Intents:"
+
+#. Author URI of the plugin
+msgid "http://amrap42.28a.de/"
+msgstr "http://amrap42.28a.de/"
+
+#. URI of the plugin
+msgid "http://amrap42.28a.de/wp-wdfy-integration-of-wodfiy-wordpress-plugin/"
+msgstr "http://amrap42.28a.de/wp-wdfy-integration-of-wodfiy-wordpress-plugin/"
+
+#: soswodify.php:1276
+msgid ""
+"I will not go into the details of describing the development of Alexa skills "
+"here, there is plenty of documentation out there for you to use. And I am "
+"also not an expert on Alexa skills, so I will hardly able to help you. "
+msgstr ""
+"Ich werde nicht in die Details des Alexa-Skill Developments eintauchen, es "
+"gibt ausreichend Dokumentationen im Netz. Ich bin selbst auch keine Experte "
+"für Alexa Skills und werde deshalb kaum helfen können."
+
+#: soswodify.php:1445
+msgid ""
+"If set to \"false\" a schema.org event markup for each listed class will not "
+"be included in the page"
+msgstr "Wenn \"false\" wird kein schema.org Event Markup erzeugt."
+
+#: soswodify.php:1448
+msgid "If set to \"true\" a table header will be included."
+msgstr "Wenn \"true\" gewählt wird, werden Spaltenüberschriften angezeigt."
+
+#: soswodify.php:1434
+msgid ""
+"If specified will be used instead of numdays. How many calendar months to "
+"display."
+msgstr ""
+"Wird, sofern angegeben, anstelle von numdays verwendet. Wieviele Kalender-"
+"Monate sollen angezeigt werden?"
+
+#: soswodify.php:325
+msgid ""
+"If you have contacted me with a plugin problem on your site, I might ask you "
+"to send me additional information. \n"
+"\t\t\t In this case please use the following button and send me the "
+"resulting text file in an e-mail. "
+msgstr ""
+"Wenn du mich mit einem Problem des Plugins auf deiner Seite kontaktiert hast,"
+" bitte ich dich eventuell mir zusätzliche Informationen zu schicken. In "
+"diesem Fall nutze bitte den folgenden Button und sende mir die entstandene "
+"text-Datei."
+
+#: soswodify.php:321
+msgid ""
+"If you have ideas, problems or suggestions you can find the relevant contact "
+"information on <a href=\" http://amrap42.28a.de/contact/\" target=\"_blank\" "
+"rel=\"noopener\">http://amrap42.28a.de/contact/</a>."
+msgstr ""
+"Wenn du Ideen, Probleme oder Vorschläge hast, findest du die notwendigen "
+"Kontaktinformationen unter <a href=\" http://amrap42.28a.de/contact/\" "
+"target=\"_blank\" rel=\"noopener\">http://amrap42.28a.de/contact/</a>."
+
+#: soswodify.php:1446
+msgid ""
+"If you intend to use schema.org markup, please make sure to setup the values "
+"for various attributes in the plugin general and program settings."
+msgstr ""
+"Wenn du beabsichtigst, das schema.org Markup zu nutzen, stelle bitte sicher, "
+"dass die Standardwerte für verschiedene Attribute in den Allgemeinen und den "
+"Programmeinstellungen des Plugins hinterlegt sind."
+
+#: soswodify.php:315
+msgid ""
+"If you like the plugin and find it valuable for your site, please support me "
+"as the author - any amount will be appreciated."
+msgstr ""
+"Wenn das Plugin wertvoll und hilfreich für deine Webseite ist, würde ich "
+"mich freuen wenn du mich unterstützen würdest - jeder Beitrag ist willkommen."
+
+#: soswodify.php:450
+msgid ""
+"If you use the [wdfyevents] shortcode or editor block this will create a <a "
+"href=\"https://schema.org/Event\" target=_blank\"  rel=\"noopener "
+"noreferrer\">schema.org event markup</a> for search engines. Use these "
+"options to define the attributes. Please note that more settings should be "
+"made in the Programs settings section."
+msgstr ""
+"Wenn du den [wdfyevents] Shortcode oder Editor Block benutzt, wird "
+"automatisch ein <a href=\"https://schema.org/Event\" target=_blank\"  "
+"rel=\"noopener noreferrer\">schema.org Event Markup</a> für Suchmaschinen "
+"generiert. Verwende die folgenden Optionen, um die Attribute zu definieren. "
+"Bitte beachte, dass einige zusätzliche Einstellungen unter \"Programs\" "
+"vorgenommen werden sollten."
+
+#: soswodify.php:516
+msgid ""
+"If you use the [wdfyevents] shortcode or editor block this will create a "
+"schema.org event markup for search engines. Please enter a fully qualified "
+"URL (inkl. http/https of an image that can be used for this event markup "
+"specifica for each program."
+msgstr ""
+"Wenn du den [wdfyevents] Shortcode verwendest, wird automatisch ein schema."
+"org event markup für Suchmaschinen erzeugt. Bitte gib hier eine vollständige "
+"URL (inkl. http/https) eines Bilds ein, das spezifisch für jedes Program für "
+"dieses Markup verwendet werden kann. "
+
+#: widgets/wodify_wod_widget.php:146
+msgid "Ignore Wodify WOD publish date:"
+msgstr "Wodify Veröffentlichungsdatum ignorieren:"
+
+#: soswodify.php:749
+msgid ""
+"Images in WODs can be downloaded to the local media library when a WOD is "
+"first displayed. By default images are loaded from the original Wodify "
+"location. Featured images in automated posts are always downloaded to the "
+"media library."
+msgstr ""
+"Bilder in WODs können in die Medienbibliothek heruntergeladen werden, wenn "
+"das WOD angezeigt wird. Standardmäßig werden die Bilder von der "
+"ursprünglichen Wodify-Adresse angezeigt.  Beitragsbilder in automatisierten "
+"Beiträgen werden immer in die Medienbibliothek geladen."
+
+#: soswodify.php:1010 soswodify.php:1098
+msgid "Immediately"
+msgstr "Sofort"
+
+#: soswodify.php:921
+msgid "Include components"
+msgstr "Eingeschlossene Komponenten"
+
+#: soswodify.php:855
+msgid ""
+"Included and excluded components are comma separated lists of WOD components "
+"to limit the output to (include) or to skip in output (exclude). Use "
+"\"Header\" for the WOD header section, \"Announcements for the respective "
+"section."
+msgstr ""
+"Eingeschlossene und ausgeschlossene Komponenten werden als Komma-separierte "
+"Listen von WOD-Komponenten angegeben, auf die die Ausgabe zu begrenzen "
+"(eingeschlossen) ist, oder die nicht angezeigt werden sollen (ausgeschlossen)"
+". Verwende \"Header\" für den Überschriftenabschnitt des WODs, "
+"\"Announcements\" für Ankündigungen."
+
+#: soswodify.php:1402
+msgid ""
+"Insert a link to a Wodify application web page (user must be logged in or "
+"login manually) or the Wodify homepage"
+msgstr ""
+"Füge einen link zur Wodify Webanwendung (der Benutzer muss dort angemeldet "
+"sein oder sich manuell einloggen) oder zur Wodify Homepage."
+
+#: soswodify.php:1427
+msgid ""
+"Insert a list of upcoming classes of selected programs, including schema.org "
+"markup for search engines"
+msgstr ""
+"Zeige eine Liste von zukünftigen Classes inklusive schema.org Markup für "
+"Suchmaschinen"
+
+#: soswodify.php:1423
+msgid "Insert a logo link to the Wodify WOD page."
+msgstr "Fügt einen Logo-Link zur Wodify-WOD-Seite ein."
+
+#: soswodify.php:1422
+msgid "Insert text link to the Wodify calendar to open in a new tab"
+msgstr ""
+"Fügt einen Textlink zum Wodify-Kalender ein, der sich im neuen Tab öffnet."
+
+#. Description of the plugin
+msgid "Integrate Wodify into Wordpress"
+msgstr "Integration von Wodify in Wordpress"
+
+#: soswodify.php:730
+msgid "Internal Publish Date"
+msgstr "Internal Publish Date"
+
+#: widgets/wodify_wod_widget.php:123
+msgid "Last week"
+msgstr "Letzte Woche"
+
+#: soswodify.php:911 functions/eventlist.php:41
+msgid "Location"
+msgstr "Location"
+
+#: soswodify.php:1443
+msgid "Location address from Wodify"
+msgstr "Adresse der Location aus Wodify"
+
+#: soswodify.php:455
+msgid "Location image"
+msgstr "Location Bild/Logo"
+
+#: soswodify.php:1442
+msgid "Location name from Wodify"
+msgstr "Name der Location in Wodify"
+
+#: soswodify.php:1383
+msgid "Location name from Wodify, defaults to setting from settings page."
+msgstr ""
+"Location Name aus Wodify. Vorgabewert ist die Einstellung auf der "
+"Allgemeinen Einstellungsseite."
+
+#: soswodify.php:1164
+msgid "Magic number"
+msgstr "Magische Zahl"
+
+#: soswodify.php:1000 soswodify.php:1092
+msgid "Manual / Draft"
+msgstr "Manuell / Entwurf"
+
+#: functions/eventlist.php:51
+msgid "Name"
+msgstr "Name"
+
+#: soswodify.php:1385
+msgid ""
+"Name of the program to display the WOD for, defaults to the program chosen "
+"from the settings page."
+msgstr ""
+"Program Name aus Wodify. Vorgabewert ist die Einstellung auf der Allgemeinen "
+"Einstellungsseite ."
+
+#: soswodify.php:1440
+msgid "Name of Wodify class"
+msgstr "Name der Wodify Class"
+
+#: soswodify.php:1439
+msgid "Name of Wodify program (Event name)"
+msgstr "Name des Wodify Programs"
+
+#: widgets/wodify_wod_widget.php:137
+msgid "Next week"
+msgstr "Nächste Woche"
+
+#: soswodify.php:761 soswodify.php:782 soswodify.php:953 soswodify.php:1027
+#: soswodify.php:1042 soswodify.php:1072 soswodify.php:1106 soswodify.php:1117
+#: widgets/wodify_classes_widget.php:470 widgets/wodify_classes_widget.php:561
+#: widgets/wodify_wod_widget.php:148 widgets/wodify_wod_widget.php:154
+#: widgets/wodify_wod_widget.php:167
+msgid "No"
+msgstr "Nein"
+
+#: soswodify.php:681
+msgid "No classes caching"
+msgstr "Kalender-Caching deaktivieren"
+
+#: functions/wodify_api.php:1004
+msgid "No measure. "
+msgstr "No measure."
+
+#: widgets/wodify_classes_widget.php:365
+msgid "No upcoming classes."
+msgstr "Keine bevorstehenden Kurse."
+
+#: functions/eventlist.php:331
+msgid "No upcoming events."
+msgstr "Keine anstehenden Events."
+
+#: functions/wodify_api.php:480
+msgid "No WOD available"
+msgstr "Kein WOD verfügbar"
+
+#: functions/wodify_api.php:742
+msgid "No WOD available."
+msgstr "Kein WOD verfügbar."
+
+#: soswodify.php:809
+msgid "No WOD posting "
+msgstr "Keine WOD-Beiträge erstellen"
+
+#: widgets/wodify_classes_widget.php:465
+msgid "Number of classes to display without scrolling:"
+msgstr "Anzahl der ohne scrollen anzuzeigenden Kurse:"
+
+#: soswodify.php:1433
+msgid "Number of days to find classes in the future. Defaults to 7 (one week)"
+msgstr "Anzahl zukünftiger Tage, für die Classes angezeigt werden sollen."
+
+#: widgets/wodify_classes_widget.php:241
+msgid "Open"
+msgstr "Offen"
+
+#: soswodify.php:1380
+msgid "Output a selected WOD into a post or page."
+msgstr "Zeigt ein ausgewähltes WOD in einem Beitrag oder auf einer Seite an."
+
+#: soswodify.php:469
+msgid "Phone number"
+msgstr "Telefonnummer"
+
+#: soswodify.php:493
+msgid ""
+"Please add any extra JSON code, that you would like to add to the event "
+"markup. Anything specified here will be added on top-level at the end of "
+"each event markup."
+msgstr ""
+"Bitte füge hier jeglichen zusätzlichen JSON code ein, den du dem Event "
+"Markup hinzufügen möchtest. Dieser Code wird auf oberster Ebene am Ende "
+"jedes Event Markups eingefügt."
+
+#: soswodify.php:747
+msgid ""
+"Please decide what the default for showing WOD images is. You can override "
+"the setting for each widget, shortcode or automated post."
+msgstr ""
+"Bitte lege den Vorgabewert für die Anzeige von Bildern in WODs fest. Du "
+"kannst diese Einstellung zusätzlich separat für alle Widgets, Shortcodes und "
+"automatisierten Beiträgen festlegen."
+
+#: soswodify.php:316
+msgid "Please send your donation via Paypal by clicking here."
+msgstr "Klicke hier, um via Paypal zu spenden."
+
+#: soswodify.php:504
+msgid ""
+"Please specify setting for the different Wodify programs. These will be used "
+"to determine what and how classes are displayed."
+msgstr ""
+"Bitte gib die Einstellungen für die verschiedenen Wodify Programme an. Diese "
+"werden verwendet um festzulegen, wie und welche Kurse angezeigt werden."
+
+#: soswodify.php:849
+msgid ""
+"Please specify WOD publishing settings for the different Wodify programs. If "
+"you have multiple Wodify Locations settings can differ per location."
+msgstr ""
+"Bitte wähle die Einstellungen zur WOD-Veröffentlichung für die "
+"unterschiedlichen Wodify Programme. Wenn du mehrere Locations hast, können "
+"sich die Einstellungen je nach Location unterscheiden."
+
+#: soswodify.php:914
+msgid "Post author"
+msgstr "Beitragsautor"
+
+#: soswodify.php:919
+msgid "Post Images"
+msgstr "Bilder"
+
+#: soswodify.php:920
+msgid "Post Thumbnail"
+msgstr "Als Beitragsbild"
+
+#: soswodify.php:918
+msgid "Post title"
+msgstr "Beitragstitel"
+
+#: soswodify.php:915
+msgid "Post type"
+msgstr "Post type"
+
+#: soswodify.php:478
+msgid "Price Range"
+msgstr "Price Range"
+
+#: soswodify.php:912
+msgid "Program"
+msgstr "Programm"
+
+#: widgets/wodify_wod_widget.php:117
+msgid "Program (Wodify):"
+msgstr "Program (Wodify)"
+
+#: soswodify.php:506 soswodify.php:541
+msgid "Program color"
+msgstr "Programm Farbe"
+
+#: soswodify.php:540 widgets/wodify_classes_widget.php:485
+msgid "Program name"
+msgstr "Programm-Name"
+
+#: soswodify.php:296 soswodify.php:502
+msgid "Program Settings"
+msgstr "Programm-Einstellungen"
+
+#: soswodify.php:735
+msgid "Publish offset in hours:"
+msgstr "Veröffentlichungs-Offset in Stunden:"
+
+#: soswodify.php:917
+msgid "Publishing settings"
+msgstr "Veröffentlichungseinstellungen"
+
+#: soswodify.php:931
+msgid "Remove line"
+msgstr "Zeile löschen"
+
+#: widgets/wodify_classes_widget.php:497
+msgid "Reservation status"
+msgstr "Reserverierungsstatus"
+
+#: soswodify.php:1153
+msgid "REST-API active"
+msgstr "REST API aktiv"
+
+#: soswodify.php:300
+msgid "REST-API/Alexa-API"
+msgstr "REST-API/Alexa-API"
+
+#: soswodify.php:1147
+msgid "REST-API/Alexa-API Settings"
+msgstr "REST-API/Alexa-API Einstellungen"
+
+#: soswodify.php:1462
+msgid "Save all settings"
+msgstr "Alle Einstellungen speichern"
+
+#: soswodify.php:544
+msgid "Schema.org event image URL"
+msgstr "Schema.org Event Image URL"
+
+#: soswodify.php:515
+msgid "schema.org event image URL"
+msgstr "schema.org Event Image URL"
+
+#: soswodify.php:449
+msgid "Schema.org Options"
+msgstr "Schema.org Optionen"
+
+#: widgets/wodify_classes_widget.php:468
+msgid "Scroll classes automatically?"
+msgstr "Kalender automatisch scollen?"
+
+#: soswodify.php:1389
+msgid ""
+"Set to \"false\" in order to always access Wodify and disable local caching, "
+"defaults to \"true\"."
+msgstr ""
+"\"false\" um das Caching zu deaktivieren und bei jedem Seitenaufruf direkt "
+"auf Wodify zuzugreifen. Vorgabewert ist \"true\"."
+
+#: soswodify.php:209
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: soswodify.php:301 soswodify.php:1376
+msgid "Shortcode Documentation"
+msgstr "Shortcode Dokumentation"
+
+#: soswodify.php:1456
+msgid "Show a list of classes for the selected program with default settings"
+msgstr ""
+"Zeige eine Liste von Classes des gewählten Programs mit den Voreinstellungen."
+
+#: widgets/wodify_wod_widget.php:162
+msgid ""
+"Show only following WOD components (Separate component names with comma, "
+"leave empty to show all):"
+msgstr ""
+"Nur die folgenden WOD-Komponenten anzeigen (Mehrere Komponenten-Namen durch "
+"Komma getrennt, Feld leer lassen um alles anzuzeigen):"
+
+#: soswodify.php:1457
+msgid ""
+"Show only specific columns, a custom date format, and include headers in the "
+"table"
+msgstr ""
+"Zeige nur bestimmte Spalten, ein benutzerdefiniertes Datumsformat, und zeige "
+"Spaltenüberschriften an."
+
+#: widgets/wodify_classes_widget.php:544
+msgid ""
+"Show only the following programs (Separate program names with comma, leave "
+"empty to show all):"
+msgstr ""
+"Nur die folgenden Programme anzeigen (Mehrere Programm-Namen durch Komma "
+"getrennt, Feld leer lassen um alles anzuzeigen):"
+
+#: soswodify.php:1397
+msgid ""
+"Show tomorrow's WOD without respecting Wodify publish settings. Do not show "
+"the header information and the Warm-up section. Do not include WOD images."
+msgstr ""
+"Zeige das morgige WOD an ohne die Wodify-Veröffentlichungseinstellungen zu "
+"berücksichtigen. Zeige keine Überschriften-Informationen und kein Warm-up an."
+" Zeige keine Bilder an."
+
+#: soswodify.php:754
+msgid "Show WOD images by default?"
+msgstr "WOD Bilder standardmäßig anzeigen?"
+
+#: widgets/wodify_wod_widget.php:165
+msgid "Show wod images?"
+msgstr "WOD-Bilder anzeigen?"
+
+#: functions/wodify_api.php:783 functions/wodify_api.php:809
+#, php-format
+msgid "Sorry, I could not find a suitable program, but I will try %s for you"
+msgstr ""
+"Ich konnte leider kein passendes Programm finden, aber ich versuche es mal "
+"mit %s"
+
+#: functions/wodify_api.php:848 functions/wodify_api.php:1035
+msgid "Sorry, no workout is available for that day."
+msgstr "Fuer diesen Tag ist leider kein Workout verfuegbar."
+
+#: functions/wodify_api.php:767
+msgid "Sorry, the magical number is wrong.."
+msgstr "Die magische Zahl ist leider falsch."
+
+#: widgets/wodify_classes_widget.php:245
+msgid "spaces reserved."
+msgstr "Plätze reserviert."
+
+#: soswodify.php:1255
+msgid ""
+"Specifies the date to get the speakable text for in ISO8601 date format, e.g."
+" 2021-01-21"
+msgstr ""
+"Gibt das Datum im ISO8601 Format an, für das der zu sprechende Text "
+"abgerufen werden soll, z.B. 2024-01-21"
+
+#: soswodify.php:1256
+msgid ""
+"Specifies the program to get the WOD for using one of the short names "
+"defined above"
+msgstr ""
+"Gibt den Namen des Programs an um eine der oben definierten "
+"Kurzbezeichnungen zu verwenden."
+
+#: soswodify.php:349
+msgid "Successfully connected to Wodify.<br>Reload page to check again."
+msgstr ""
+"Erfolgreich mit Wodify verbunden.<br> Lade die Seite neu um die Verbindung "
+"erneut zu prüfen."
+
+#: soswodify.php:323
+msgid "Support"
+msgstr "Support"
+
+#: soswodify.php:1253
+msgid ""
+"The API takes 4 mandatory parameters in the URL, which must all be specified,"
+" even if only a default value is passed"
+msgstr ""
+"Die API nimmt 4 obligatorische Parameter in der URL entgegen, die alle "
+"angegeben sein müssen, selbst wenn nur ein Default Wert übergeben wird."
+
+#: soswodify.php:799
+msgid ""
+"The following two settings define when posts will be created. You can setup "
+"the actual publish date of each post per program below. However, if you "
+"chose immediate publishing, posts will be on your website as soon as they "
+"are created. "
+msgstr ""
+"Die folgenden zwei Einstellungen definieren, wann Beiträge erstellt werden. "
+"Das eigentliche Veröffentlichungsdatum legst du weiter unten pro Programm "
+"fest. Wenn du dort allerdings die sofortige Veröffentlichung auswählst, "
+"erscheinen die Posts auf deiner Webseite, sobald sie erstellt wurden."
+
+#: soswodify.php:1258
+msgid "The numeric password (numbers only!) setup above, pass 0 if not used."
+msgstr ""
+"Das oben eingerichtete numerische Passwort (nur Ziffern!), 0 wenn nicht "
+"verwendet."
+
+#: soswodify.php:1268
+msgid ""
+"The output will be a JSON containing only the <code>speakOutput</code> "
+"element."
+msgstr ""
+"Der Output ist im JSON Format, der nur das <code>speakOutput</code> element "
+"enthält."
+
+#: soswodify.php:1251
+msgid ""
+"The REST-API for WP WDFY on your site has one method <strong><code>wod-"
+"alexa</code></strong>  that is available at the following address: "
+msgstr ""
+"Die REST_API für WP WDSFY auf deiner Seite hat eine Methode <strong><code>"
+"wod-alexa</code></strong>, die unter der folgenden Adresse verfügbar ist:"
+
+#: soswodify.php:330
+msgid ""
+"The resulting file will not contain any login information or your API key. "
+msgstr "Diese Datei enthält weder Login-Daten noch deinen API-Key."
+
+#: functions/wodify_api.php:837
+msgid "The workout is not yet available. Please ask me again later."
+msgstr ""
+"Das Workout ist noch nicht verfuegbar. Bitte frag mich spaeter noch mal."
+
+#: soswodify.php:313
+#| msgid ""
+#| "This plugin is provided by <a href=\"http://amrap42.28a.de\" "
+#| "target=\"_blank\">AMRAP42 - Stefan Osterburg</a>."
+msgid ""
+"This plugin is provided by <a href=\"http://www.amrap42.de\" "
+"target=\"_blank\">AMRAP42 - Stefan Osterburg</a>."
+msgstr "Dieses Plugin wird von AMRAP42 - Stefan Osterburg bereit gestellt."
+
+#: soswodify.php:712
+msgid ""
+"This plugin normally respects this setting, if you do not explicitely chose "
+"to ignore it in a widget or shortcode. The following setting specifies, "
+"which of the two dates the plugin should use."
+msgstr ""
+"Dieses Plugin respektiert normalerweise die Wodify-Einstellung, wenn du "
+"nicht im Widget oder Shortcode explizit festlegst, diese zu ignorieren. Die "
+"folgende Einstellung legt fest, welches der beiden Daten genutzt werden soll."
+
+#: soswodify.php:1378
+msgid ""
+"This plugin provides the following shortcodes that you can use in your posts "
+"and pages. Please note that most attributes are case-sensitive."
+msgstr ""
+"Das Plugin stellt die folgenden Shortcodes zur Verwendung in deinen "
+"Beiträgen und Seiten zur Verfügung. Beachte bitte, dass die meisten "
+"Attributwerte Groß- und Kleinschreibung unterscheiden."
+
+#: functions/eventlist.php:66 widgets/wodify_classes_widget.php:491
+msgid "Time"
+msgstr "Zeit"
+
+#: soswodify.php:1438
+msgid "Time of class"
+msgstr "Uhrzeit der Class"
+
+#: widgets/wodify_classes_widget.php:406
+msgid "Title:"
+msgstr "Titel:"
+
+#: soswodify.php:354
+#, php-format
+msgid ""
+"To find you API Key please see the description on this <a href=\"%s\" "
+"target=\"_blank\"  rel=\"noopener noreferrer\">Wodify Support page</a>."
+msgstr ""
+"Um deinen API-Key zu finden, folge bitte der Beschreibung auf dieser <a "
+"href=\"%s\" target=\"_blank\"  rel=\"noopener noreferrer\">Wodify Support "
+"Seite</a>."
+
+#: soswodify.php:1135
+msgid ""
+"To have a specific WOD post recreated, you can simply delete the post (Move "
+"to trash AND empty trash!). The post will be recreated the next time WOD "
+"posting is activated by the cron mechanism."
+msgstr ""
+"Um einen bestimmten Beitrag zu einem WOD erneut erstellen zu lassen, kannst "
+"du den Beitrag einfach löschen (In den Papierkorb verschieben UND den "
+"Papierkorb leeren!). Der Beitrag wird dann erneut erstellt, sobald der Cron "
+"Mechanismus wieder aktiviert wird."
+
+#: widgets/wodify_classes_widget.php:419 widgets/wodify_wod_widget.php:130
+msgid "Today"
+msgstr "Heute"
+
+#: widgets/wodify_wod_widget.php:132
+msgid "Today + 2 days"
+msgstr "Übermorgen"
+
+#: widgets/wodify_wod_widget.php:133
+msgid "Today + 3 days"
+msgstr "Heute + 3 Tage"
+
+#: widgets/wodify_wod_widget.php:134
+msgid "Today + 4 days"
+msgstr "Heute + 4 Tage"
+
+#: widgets/wodify_wod_widget.php:135
+msgid "Today + 5 days"
+msgstr "Heute + 5 Tage"
+
+#: widgets/wodify_wod_widget.php:136
+msgid "Today + 6 days"
+msgstr "Heute + 6 Tage"
+
+#: widgets/wodify_classes_widget.php:432
+msgid "Today +2 days"
+msgstr "Heute +2 Tage"
+
+#: widgets/wodify_classes_widget.php:439
+msgid "Today +3 days"
+msgstr "Heute +3 Tage"
+
+#: widgets/wodify_classes_widget.php:446
+msgid "Today +4 days"
+msgstr "Heute +4 Tage"
+
+#: widgets/wodify_classes_widget.php:453
+msgid "Today +5 days"
+msgstr "Heute +5 Tage"
+
+#: widgets/wodify_classes_widget.php:460
+msgid "Today +6 days"
+msgstr "Heute +6 Tage"
+
+#: widgets/wodify_wod_widget.php:128
+msgid "Today - 2 days"
+msgstr "Vorgestern"
+
+#: widgets/wodify_wod_widget.php:127
+msgid "Today - 3 days"
+msgstr "Heute - 3 Tage"
+
+#: widgets/wodify_wod_widget.php:126
+msgid "Today - 4 days"
+msgstr "Heute - 4 Tage"
+
+#: widgets/wodify_wod_widget.php:125
+msgid "Today - 5 days"
+msgstr "Heute - 5 Tage"
+
+#: widgets/wodify_wod_widget.php:124
+msgid "Today - 6 days"
+msgstr "Heute - 6 Tage"
+
+#: widgets/wodify_classes_widget.php:425
+msgid "Today and Tomorrow"
+msgstr "Heute und morgen"
+
+#: widgets/wodify_wod_widget.php:131
+msgid "Tomorrow"
+msgstr "Morgen"
+
+#: widgets/wodify_classes_widget.php:25 widgets/wodify_classes_widget.php:392
+msgid "Upcoming classes"
+msgstr "Bevorstehende Kurse"
+
+#: soswodify.php:1435
+msgid ""
+"Use \"nextmonth\" to list event from 1st of next month. Otherwise events "
+"beginning from the current date will be displayed."
+msgstr ""
+"Verwende \"nextmonth\" um Events beginnend am Ersten des nächsten Monats "
+"aufzulisten. Andernfalls werden Evebts ab dem aktuellen Datum angezeigt."
+
+#: widgets/wodify_classes_widget.php:559
+msgid "Use cached calendar if available"
+msgstr "Kalender Cache verwenden wenn verfügbar"
+
+#: soswodify.php:1450
+msgid "Use custom date format."
+msgstr "Benutzerdefiniertes Datumsformat verwenden."
+
+#: widgets/wodify_classes_widget.php:504
+msgid "Visual reservation status"
+msgstr "Grafischer Reservierungsstatus"
+
+#: soswodify.php:1265
+msgid ""
+"will give you the workout for 2021-01-22 and the program you mapped to the "
+"shortname \"crossfit\" above formatted for Alexa, assuming you have not set "
+"a password."
+msgstr ""
+"Gibt das Workout für das angebene Datum und das Program, das auf die "
+"Kurzbezeichnung \"crossfit\" gemappt ist für Alexa formatiert zurück, "
+"vorausgesetzt, es wurde kein Passwort eingerichtet."
+
+#: widgets/wodify_wod_widget.php:18 widgets/wodify_wod_widget.php:99
+msgid "WOD"
+msgstr "WOD"
+
+#: soswodify.php:1137
+msgid "WOD Caching"
+msgstr "WOD Caching"
+
+#: widgets/wodify_wod_widget.php:121
+msgid "WOD day:"
+msgstr "WOD Datum:"
+
+#: soswodify.php:745
+msgid "WOD Images"
+msgstr "WOD Bilder"
+
+#: functions/wodify_api.php:473
+msgid "WOD not yet available. Please come back later!"
+msgstr "WOD noch nicht verfügbar. Bitte komme später wieder!"
+
+#: soswodify.php:796
+msgid "WOD Posting"
+msgstr "WOD-Beitragserstellung"
+
+#: widgets/wodify_wod_widget.php:141
+msgid ""
+"WOD Publish offset in hours (Show WOD earlier or later than Wodify publish "
+"date, negative values vor earlier):"
+msgstr ""
+"WOD-Veröffentlichungsabweichung in Stunden (Zeige das WOD früher oder später "
+"an als durch das Wodify Publish Date festgelegt, verwende negative Werte für "
+"früher):"
+
+#: soswodify.php:709
+msgid "WOD Publishing Settings"
+msgstr "WOD-Veröffentlichungseinstellungen"
+
+#: soswodify.php:299
+msgid "WOD Settings"
+msgstr "WOD Einstellungen"
+
+#: blocks.php:11 shortcodes.php:181
+msgid "Wodify"
+msgstr "Wodify"
+
+#: soswodify.php:1180
+msgid "Wodify / API program mappings"
+msgstr "Wodify / API Programm Zuordnung"
+
+#: soswodify.php:342
+msgid "Wodify API Key"
+msgstr "Wodify API Key"
+
+#: soswodify.php:277 soswodify.php:291
+msgid "Wodify Integration"
+msgstr "Wodify Integration"
+
+#: soswodify.php:276
+msgid "Wodify Integration Settings"
+msgstr "Wodify Integration Einstellungen"
+
+#: soswodify.php:1406
+msgid ""
+"Wodify page to link to. \"wod\" (default) | \"calendar\" | \"whiteboard\" | "
+"\"home\""
+msgstr ""
+"Wodify Seite zu der verlinkte wird.  \"wod\" (Vorgabewert) | \"calendar\" | "
+"\"whiteboard\" | \"home\""
+
+#: soswodify.php:1205
+msgid "Wodify Program to map to"
+msgstr "Zuzuordnendes Wodify Programm"
+
+#: soswodify.php:717 soswodify.php:1005 soswodify.php:1095
+msgid "Wodify publish date"
+msgstr "Wodify Veröffentlichungsdatum"
+
+#: widgets/wodify_classes_widget.php:550
+msgid "Wodify Settings"
+msgstr "Wodify Plugin-Einstellungen"
+
+#: soswodify.php:436
+msgid "Wodify Time zone"
+msgstr "Wodify Zeitzone"
+
+#: widgets/wodify_classes_widget.php:10
+msgid "Wodify Upcoming Classes"
+msgstr "Wodify Kalender"
+
+#: soswodify.php:710
+msgid ""
+"Wodify uses two publish dates: If WordPress posts are activated in Wodify, "
+"the <strong>Blog Publish Date</strong> specifies when Wodify is supposed to "
+"generate a WordPress post with the WOD. The <strong>Internal Publish "
+"Date</strong> specifies, when the WOD can be viewed within the Wodify app."
+msgstr ""
+"Wodify verwendet zwei verschiedene Publish Dates. Wenn automatische "
+"WordPress-Posts in Wodify aktiviert sind, gibt das <strong>Blog Publish "
+"Date</strong> an, wann Wodify den entsprechenden Post erzeugen soll. Das "
+"<strong>Internal Publish Date</strong> gibt an, wann das WOD in der Wodify "
+"App angezeigt werden kann."
+
+#: widgets/wodify_wod_widget.php:10
+msgid "Wodify WOD"
+msgstr "Wodify WOD"
+
+#: soswodify.php:1138
+#, php-format
+msgid ""
+"WODs are cached automatically when they are first retrieved from Wodify "
+"through a shortcode, widget, or automated posts to minimize page load times "
+"for your visitors.\n"
+"\t\tTo avoid that any visitor will trigger a Wodify API call, you can set up "
+"an external cron job that frequently loads the specific page(s) that "
+"display(s) the WOD. \n"
+"\t\tUse the URL parameter <em>updatewodcache</em> to trigger a cache refresh,"
+" e.g. <strong>%s/?updatewodcache</strong> will refresh the cache for a WOD "
+"displayed on your home page. \n"
+"\t\tA \"No WOD found\" message is cached for only 20 minutes. If you expect "
+"these messages to show up on your webpage, you should set the cron to load "
+"the page with a frequency of \n"
+"\t\tless than 20 minutes."
+msgstr ""
+"Um Seitenladezeiten für deine Besucher zu minimieren, werden WODs "
+"automatisch gecacht, wenn sie durch einen Shortcode, ein Widget oder die "
+"automatische Beitragserstellung das erste mal von Wodify abgerufen wurden. "
+"Um zu verhindern, dass totzdem ein Benutzer einen Wodify API Aufruf auslöst, "
+"empfiehlt es sich einen externen Cronjob einzurichten, der regelmäßig die "
+"Seiten abruft, die aktuelle WODs anzeigen. Verwende den URL Parameter  <em>"
+"updatewodcache</em> um den Cache Refresh zu erzwingen, z.B. erneuert der "
+"Aufruf von <strong>%s/?updatewodcache</strong> den Cache des WODs, das auf "
+"deiner Homepage angezeigt wird. Die Nachricht, dass kein WOD gefunden wurde, "
+"wird nur für 20 Minuten gecacht. Wenn du damit rechnest, dass solche "
+"Nachrichten auf deiner Webseite angezeigt werden, sollte deine Seite "
+"häufiger als alle 20 Minuten durch den externen Cronjob aufgerufen werden."
+
+#: soswodify.php:797
+msgid ""
+"WP WDFY can automatically create blog posts for your WODs, if the standard "
+"Wodify feature does not meet your requirements. It uses the Wordpress cron "
+"mechanism, which is triggered whenever users visit your site. On low traffic "
+"websites you might need to add a real cron job to load your page for "
+"triggering WOD posts.  "
+msgstr ""
+"WP WDFY kann automatisch Blog-Beiträge für deine Wodify-WOD erzeugen, wenn "
+"dir die von Wodify standardmäßig bereitgestellte Funktionalität nicht genügt."
+" WP WDFY nutzt dafür den WordPress Cron Mechanismus, der immer dann "
+"ausgelöst wird, wenn ein Benutzer deine Seiten besucht. Auf Websites mit "
+"geringen Benutzerzahlen ist es ggf. sinnvoll, wenn du einen echten Cron-Job "
+"erstellst, der regelmäßig deine Seiten aufruft."
+
+#: soswodify.php:1148
+msgid ""
+"WP WDFY can provide a REST API to use in Alexa Skills or Siri shortcuts. <br>"
+"You can require a numeric password \"magic number\" to be sent with each "
+"request, a value of 0 means that this password will not be checked (but is "
+"still required as empty parameter in the API-call (see below)."
+msgstr ""
+"WP WDFY can eine REST API zur Verfügung stellen, die in Alexa Skills oder "
+"Siri Kurzbefehlen verwendet werden kann. <br>Du kannst festlegen, dass ein "
+"numerische Passwort, die \"magische Zahl\" mit jedem API Request gesendet "
+"werden muss.  Mit einem Wert von 0 wird dieses Passwort nicht geprüft (wird "
+"jedoch trotzdem als Parameter im API-Aufruf benötigt - siehe unten)."
+
+#. Name of the plugin
+msgid "WP WDFY Integration of Wodify"
+msgstr "WP WDFY Integration von Wodify"
+
+#: soswodify.php:768 soswodify.php:789 soswodify.php:948 soswodify.php:1032
+#: soswodify.php:1047 soswodify.php:1073 soswodify.php:1109 soswodify.php:1120
+#: widgets/wodify_classes_widget.php:471 widgets/wodify_classes_widget.php:562
+#: widgets/wodify_wod_widget.php:149 widgets/wodify_wod_widget.php:155
+#: widgets/wodify_wod_widget.php:168
+msgid "Yes"
+msgstr "Ja"
+
+#: widgets/wodify_wod_widget.php:129
+msgid "Yesterday"
+msgstr "Gestern"
+
+#: soswodify.php:714
+msgid ""
+"You can also define an offset in hours to apply to the Wodify publish date "
+"to post your WOD earlier (negative values) or later than specified by Wodify."
+msgstr ""
+"Du kannst auch einen Offset definieren, der auf das Veröffentlichungsdatum "
+"von Wodify angewandt wird, um das WOD früher (negative Werte) oder später "
+"als in Wodify angegeben zu veröffentlichen."
+
+#: soswodify.php:1365
+msgid ""
+"You can also use the API to create a Siri shortcut on your iPhone/iPad. "
+"Again, I am not an expert on this, but the below image might give you an "
+"idea how to use the Shortcuts app. "
+msgstr ""
+"Du kannst die API auch verwenden, um einen Kurzbefehl  (für Siri) auf deinem "
+"iOS Gerät zu erstellen. Auch hierfür bin ich kein Experte, aber der "
+"Screenshot unten hilft vielleicht, einen Eindruck zu vermitteln, wie die "
+"Kurzbefehle App verwendet wird."
+
+#: soswodify.php:625
+msgid ""
+"You can specify URLS for each Wodify coach. This will be used to link the "
+"coach name to the respective page when it is shown e.g. in the classes widget"
+msgstr ""
+"Hier kannst du eine URL für jeden Coach aus Wodify festlegen. Diese wird "
+"verwendet um einen Link zu der entsprechenden Seite zu generieren wenn der "
+"Name des Coachs zum Beispiel im Kalender-Widget angezeigt wird."
+
+#: soswodify.php:851
+msgid "You can use the following place holders for the post title:"
+msgstr "Du kannst die folgenden Platzhalter für den Beitragstitel verwenden: "
